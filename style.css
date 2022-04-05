@@ -91,7 +91,7 @@ body {
 .key-equals:hover
 .key-delete:hover { 
     background-color: #282828;
-    transition: 0.1s ease-in-out;
+    transition: 0.1s ease-out;
 }
 
 .key-equals {
